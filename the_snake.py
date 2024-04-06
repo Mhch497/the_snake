@@ -150,7 +150,7 @@ class Snake(GameObject):
         if self.last:
             self.erase_last(self.last)
 
-    def erase_last(self, last):
+    def erase_last(self, last) -> None:
         """Метод закрашивающий "следы" змейки"""
         last_rect = pygame.Rect(last, (GRID_SIZE, GRID_SIZE))
         pygame.draw.rect(screen, BOARD_BACKGROUND_COLOR, last_rect)
