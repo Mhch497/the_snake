@@ -151,10 +151,6 @@ class Snake(GameObject):
         if self.last:
             self.draw_cell(self.last)
 
-    # def erase_last(self, last) -> None:
-    #     """Метод закрашивающий "следы" змейки"""
-    #     self.draw_cell(last)
-
     def get_head_position(self) -> tuple:
         """Метод, возвращающий положение головы змейки"""
         return self.positions[0]
