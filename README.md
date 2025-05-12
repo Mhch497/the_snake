@@ -11,7 +11,7 @@
 ## <a name="me">Об авторе</a>
 
 <h3>Привет! Меня зовут Мария</h3>
-<img src="https://media-arn2-1.cdn.whatsapp.net/v/t61.24694-24/410939050_903540374883796_4576944121353966039_n.jpg?ccb=11-4&oh=01_ASCv6GNcj41X3JfilxrjwdhdlBh2dyVHqo7Igs5zsim0OA&oe=6620CEB9&_nc_sid=e6ed6c&_nc_cat=101" width="150px" height="150px">
+<img src="https://avatars.githubusercontent.com/u/55291670?v=4" width="150px" height="150px">
 <p>Я занимаюсь программированием уже больше 4 лет. В моем арсенале:</p>
 <div>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
